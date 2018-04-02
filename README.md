@@ -4,6 +4,6 @@ opencv in py
   
   
   
-# Install
+# Install opencv py
 
 `sudo apt-get install libopencv-dev python-opencv`
